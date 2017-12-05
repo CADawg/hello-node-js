@@ -1,0 +1,27 @@
+{
+  "name": "npm-hello-world",
+  "version": "1.0.0",
+  "description": "Prints Hello World To the Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Snaddyvitch-Dispenser/hello-node-js"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "node",
+    "javascript"
+  ],
+  "author": "Conor Howland <snaddyvitchdispenser@cubiccastles.club> (http://snaddyvitch-dispenser.github..io)",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
