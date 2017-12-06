@@ -1,6 +1,6 @@
 {
   "name": "npm-hello-world",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Prints Hello World To the Console",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/Snaddyvitch-Dispenser/hello-node-js"
+    "url": "https://github.com/Snaddyvitch-Dispenser/hello-node-js"
   },
   "keywords": [
     "hello",

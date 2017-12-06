@@ -1,3 +1,5 @@
-'use strict';
+"use strict";
 
-console.log("Hello, World!");
+module.exports = function helloWorld() {
+    console.log("Hello, World!");
+}
