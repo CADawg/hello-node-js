@@ -1,3 +1,0 @@
-const helloworld = require('./');
-
-helloworld();
