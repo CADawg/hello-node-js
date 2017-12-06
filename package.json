@@ -1,6 +1,6 @@
 {
-  "name": "npm-hello-world",
-  "version": "2.0.1",
+  "name": "@snaddyvitch-dispenser/npm-hello-world",
+  "version": "2.0.2",
   "description": "Prints Hello World To the Console",
   "main": "index.js",
   "scripts": {
