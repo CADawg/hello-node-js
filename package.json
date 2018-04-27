@@ -26,5 +26,8 @@
     "coveralls": "^3.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "hoek": "^4.2.1"
   }
 }
