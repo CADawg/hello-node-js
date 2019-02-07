@@ -17,7 +17,7 @@
     "node",
     "javascript"
   ],
-  "author": "Conor Howland <snaddyvitchdispenser@cubiccastles.club> (http://snaddyvitch-dispenser.github..io)",
+  "author": "Conor Howland <hallo-node@conor.icu> (http://snaddyvitch-dispenser.github.io)",
   "license": "GPL-3.0",
   "engines": {
     "node": ">=4.2.4"
